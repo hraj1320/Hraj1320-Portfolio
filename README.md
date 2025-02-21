@@ -3,7 +3,7 @@
 Welcome to my personal portfolio repository! This repository contains my professional portfolio, showcasing my expertise, projects, and experience as a Full-Stack Developer and DevOps Engineer.
 
 ## 🚀 Live Demo
-[Explore my portfolio](https://hraj1320.github.io/Hraj1320-Portfolio)
+[Explore my portfolio](https://himanshu-kumar-portfolio-1320.netlify.app/)
 
 ## 📌 Features
 - **Fully Responsive**: Optimized for all screen sizes
